@@ -1,5 +1,5 @@
 # 19CS307-Lab-Ex.No-2
-# Lab Exercise 2
+# HTML Lists
 # Date : 14-09-2022
 # AIM : To construct the HTML code to comply with the output shown in the HTML Lists pdf.
  
@@ -30,7 +30,8 @@
 
 
 # Result
-
+Thus the above lists using HTML list tags were obtained.
+ 
 
 
 
